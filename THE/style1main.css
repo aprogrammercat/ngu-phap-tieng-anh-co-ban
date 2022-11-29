@@ -1,0 +1,35 @@
+body{
+    font-size: larger;
+    font-family: sans-serif;
+}
+.button {
+    display: inline-block;
+    padding: 10px 25px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #ff0000;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 6px #999;
+    font-weight: bolder;
+  }
+  
+.button:hover {background-color: #ff0000}
+  
+.button:active {
+    background-color: #ff0000;
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
+  }
+
+#title{
+    text-align: center;
+}
+
+#dung{
+    text-align: center;
+}

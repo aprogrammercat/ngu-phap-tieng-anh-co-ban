@@ -1,0 +1,17 @@
+#title{
+    text-align: center;
+    font-family: sans-serif;
+}
+#butts{
+    width: 200px;
+    height: 28px;
+    background-color: red;
+    color: #fff;
+    font-size: 15.5px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+body{
+    font-size: large;
+    font-family: sans-serif;
+}
